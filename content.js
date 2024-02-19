@@ -109,7 +109,7 @@ var data = [
     "link": "https://bttb.thac.xyz"
   },
   { "label": "tom.jpg",
-    "imgpath": "_portrait-2.jpg"build-a-smoothie-and-well-guess-your-birth-month-1kcr6"
+    "imgpath": "_portrait-2.jpg"
   },
   { "label": "workbooks.gif",
     "imgpath": "books.gif",
