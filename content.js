@@ -39,12 +39,10 @@ var data = [
     "list": ["personal identity", "play/discovery", "experience as communication", "design will no longer be human"]
   },
   { "label": "pikachu.webp",
-    "imgpath": "pikachu.webp",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "pikachu.webp"
   },
   { "label": "moon.webp",
-    "imgpath": "moon.webp",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "moon.webp"
   },
   { "label": "Snippet",
     "author": "Kevin Kelly",
@@ -54,28 +52,22 @@ var data = [
     "quote": 'That transference is not inevitable, but it does happen. As machines take over more of what humans once did, we tend to do less of the familiar. We don\'t walk as much, letting our autos do our walking.... We don\'t read if we don\'t have to. We don\'t calculate. We are in the process of offloading our remembering to Google, and we are eager to stop cleaning as soon as those cleaning bots get cheap enough.'
   },
   { "label": "sky.test",
-    "imgpath": "stars.gif",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "stars.gif"
   },
   { "label": "lain.experiment",
-    "imgpath": "lain.gif",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "lain.gif"
   },
   { "label": "hi.gif",
-    "imgpath": "sg.gif",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "sg.gif"
   },
   { "label": "lain.webp",
-    "imgpath": "lain.webp",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "lain.webp"
   },
   { "label": "lain.kb",
-    "imgpath": "keyboard.gif",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "keyboard.gif"
   },
   { "label": "lain.two",
-    "imgpath": "lain2.gif",
-    "link": "https://developer.mozilla.org/"
+    "imgpath": "lain2.gif"
   },
   { "label": "Snippet",
     "author": "Kevin Kelly",
@@ -101,7 +93,6 @@ var data = [
   { "label": "hands.video",
     "author": "2018",
     "title": "bttb.project",
-    "link": "https://tom.org.nz/projects",
     "quote": '<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/8jz8a/ffbgqq?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>'
   },
   { "label": "research.concept.mp4",
@@ -111,16 +102,14 @@ var data = [
     "quote": '<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/4ylec/rwsvhq?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>'
   },
   { "label": "globe.gif",
-  "imgpath": "globe.gif",
-  "link": "https://www.buzzfeed.com/darbym4/what-cocktail-are-you-based-on-your-zodiac-sign-crsr"
+  "imgpath": "globe.gif"
   },
   { "label": "work.jpg",
     "imgpath": "cat.jpg",
     "link": "https://bttb.thac.xyz"
   },
   { "label": "tom.jpg",
-    "imgpath": "_portrait-2.jpg",
-    "link": "https://www.buzzfeed.com/annas451019d1e/build-a-smoothie-and-well-guess-your-birth-month-1kcr6"
+    "imgpath": "_portrait-2.jpg"build-a-smoothie-and-well-guess-your-birth-month-1kcr6"
   },
   { "label": "workbooks.gif",
     "imgpath": "books.gif",

@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: "Octopuss";
   src: url("/more/fonts/Octopuss.svg#Octopuss") format("svg");
   src: url("/more/fonts/Octopuss.eot");
@@ -18,7 +18,7 @@
   src: url("/more/fonts/SouvenirStd-Demi.eot");
   src: url("/more/fonts/SouvenirStd-Demi.eot?#iefix") format("embedded-opentype"), url("/fonts/SouvenirStd-Demi.woff") format("woff"), url("/fonts/SouvenirStd-Demi.ttf") format("truetype");
   font-style: normal;
-  font-weight: bold; }
+  font-weight: bold; }*/
 html {
   box-sizing: border-box; }
 
